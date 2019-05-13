@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  .head_one{
+    width: 7.5rem;
+    height: 0.4rem;
+  }
+  .head_one_img{
+    float: left;
+    width: 7.5rem;
+    margin-top: 0.05rem
+  } 
+  .head_two{
+    width: 7.5rem;
+    height: 0.84rem;
+  }
+  .head_two_img{
+    float: left;
+    margin-left: 0.3rem;
+    margin-top: 0.23rem;
+    width: 0.2rem;
+    height: 0.35rem;
+  }
+  .head_two_span{
+    font-size: 0.3rem;
+    color: white;
+    float: left;
+    margin-left: 2.95rem;
+    margin-top: 0.23rem;
+  }
+  .head_three{
+    width: 7.5rem;
+    height: 4rem;
+  }
+  .head_three_img{
+    /* float: left; */
+    width: 1.6rem;
+    height: 1.6rem;
+    margin-left: 2.95rem;
+    margin-top: 0.5rem;
+  }
+  .head_three_p{
+    font-size: 0.24rem;
+    color: white;
+    margin-left: 3.05rem;
+    margin-top: 0.1rem;
+  }

@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  .head {
+    width: 7.5rem;
+    height: 1.28rem;
+    clear: both;
+  }
+  .head_one {
+    width: 7.5rem;
+    height: 0.4rem;
+    background-color: black;
+  }
+  .head_one_img {
+    float: left;
+    width: 7.5rem;
+    margin-top: 0.05rem;
+  }
+  .head_two {
+    width: 7.5rem;
+    height: 0.84rem;
+    background-color: #17181a;
+  }
+  .return {
+    float: left;
+    margin-left: 0.3rem;
+    margin-top: 0.23rem;
+  }
+  .head_two_span {
+    font-size: 0.3rem;
+    color: white;
+    float: left;
+    margin-left: 2.5rem;
+    margin-top: 0.23rem;
+  }

@@ -1,0 +1,55 @@
+{% extends "moban.html" %}
+
+{% block content %}
+<link rel="stylesheet" href="../public/style/z1.css">
+<body>
+    <div id="header">
+       <img class="img1" src="../public/img/状态栏.jpg" alt="">
+       <a href="return5">
+            <img class="img2" src="../public/img/Return.png" alt="">
+       </a>
+       <span>报警记录</span>
+    </div>
+
+    <div class="coniater">
+        <div class="coniaterList_one">
+            <div class="background">
+                <img src="../public/img/move.png" alt="">
+            </div>
+                <p class="Text_one">有人移动保险箱</p>
+                <p class="Text_two">2分钟前</p>
+                <span class="Text_three">幻想乡</span>
+        </div>
+        <div class="coniaterList_two">
+            <div class="background">
+                <img src="../public/img/Electricquantity.png" alt="">
+            </div>
+                <p class="Text_one">保险箱电量低于20%</p>
+                <p class="Text_two">1分钟前</p>
+                <span class="Text_three">幻想乡</span>
+        </div>
+        <div class="coniaterList_three">
+            <div class="background">
+                <img src="../public/img/modify.png" alt="">
+            </div>
+                <p class="Text_one">修改配置</p>
+                <p class="Text_two">1分钟前</p>
+                <span class="Text_three">幻想乡</span>
+        </div>
+        <div class="coniaterList_four">
+            <div class="background">
+                <img src="../public/img/Electricquantity.png" alt="">
+            </div>
+                <p class="Text_one">保险箱电量低于30%</p>
+                <p class="Text_two">18天前</p>
+                <span class="Text_three">幻想乡</span>
+            </div>
+        </div>
+        {% endblock %}
+
+        {% block js %}
+    <script src="/public/js/fontsizeset.js"></script>
+    <script>
+        
+    </script>
+    {% endblock %}
