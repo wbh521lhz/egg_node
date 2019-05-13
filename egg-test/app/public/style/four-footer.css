@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.APPfooter{
+    float: left;
+    width: 7.5rem;
+    left: -0.05rem;
+}
+.footer{
+    margin-top: 6.8rem;
+    text-align: center
+}
+.corr{
+    font-size: 0.25rem;
+}
+.Privacy_policy{
+    text-decoration:none; 
+    color:#0091ff;
+}

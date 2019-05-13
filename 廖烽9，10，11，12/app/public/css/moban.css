@@ -1,0 +1,55 @@
+ #footer{
+        width: 7.5rem;
+        height: 1.2rem;
+        border-top: 1px solid black;
+        position: absolute;
+        top: 12rem;
+    }
+    #footer ul li{
+        float: left;
+        width: 1.875;
+        height: 1.2rem;
+        list-style: none;
+    }
+    #footer ul li a{
+        font-size: 20px;
+        color: #b0b0b0;
+        text-decoration:rgb(255, 255, 255);
+    }
+    #footer ul li img{
+        float: left;
+        margin-top: 0.1rem;
+    }
+    #footer ul .li-1 .img1{
+        width: 0.5rem;
+        height: 0.52rem;
+        margin-left: 0.7rem;
+    }
+    #footer ul .li-1 .a1{
+        margin-left: -0.8rem;
+    }
+    #footer ul .li-2 .img2{
+        width: 0.5rem;
+        height: 0.5rem;
+        margin-left: 1rem;
+    }
+    #footer ul .li-2 .a2{
+        margin-left: -1rem;
+    }
+    #footer ul .li-3 .img3{
+        width: 0.52rem;
+        height: 0.52rem;
+        margin-left: 1.1rem;
+    }
+    #footer ul .li-3 .a3{
+        /* color: #0091fe; */
+        margin-left: -1rem;
+    }
+    #footer ul .li-4 .img4{
+        width: 0.6rem;
+        height: 0.55rem;
+        margin-left: 1.1rem;
+    }
+    #footer ul .li-4 .a4{
+        margin-left: -1rem;
+    }
